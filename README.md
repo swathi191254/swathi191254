@@ -11,4 +11,5 @@ In the few months that I have spent in Masai school, I have been able to master 
 Outside of coding, I enjoy reading books, writing stories or poems, cooking, and practicing yoga.
 
 You can reach out to me at: swathi709357@gmail.com
+Linkedin: https://www.linkedin.com/in/swathi-kummara-633142214/
 
