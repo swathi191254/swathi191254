@@ -13,6 +13,9 @@ Outside of coding, I enjoy reading books, writing stories or poems, cooking, and
 </br>
 
 Tools:
+<br />
+<br />
+
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -24,6 +27,9 @@ Tools:
 </br>
 
 Connect Me:
+<br />
+<br />
+
 <a href="https://www.linkedin.com/in/swathi-kummara-633142214/"><img align="left" alt="mahesh" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png"></a>
 </br>
 </br>
