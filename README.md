@@ -23,7 +23,8 @@ Shortly after, I enrolled in Masai school to learn web development. Given my kna
 <h2>Connect Me:-<h2/>
 
 
-<a href="https://www.linkedin.com/in/swathi-kummara-633142214/"><img align="left" alt="mahesh" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png"></a>
+<a href="https://www.linkedin.com/in/swathi-kummara-633142214/"><img align="left" alt="swathi" width="40px" target="block" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png"></a>
+  <a href="https://swathi191254.github.io/portfolio2/index.html"><img align="left" alt="swathi" width="40px" target="block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQYIofbdqfbxmuSSqNu4qep4IEZ18TmyTduzIajhqX6Mug8ouQxOX-gUXXdjzWx8Ei_Q&usqp=CAU"></a>
 </br>
 </br>
 
