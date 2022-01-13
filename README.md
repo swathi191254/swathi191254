@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://swathi191254.github.io/portfolio2/index.html](https://swathi191254.github.io/portfolio2/index.html)
+- 👨‍💻 Portfolio [https://swathi191254.github.io/portfolio2/index.html](https://swathi191254.github.io/portfolio2/index.html)
 
 - 📫 Connect me **swathi709357@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing](https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing](https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
