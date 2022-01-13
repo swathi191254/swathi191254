@@ -1,31 +1,29 @@
-### Hi there 👋
-Ever since I can remember, I have loved computers and everything related to it. When I was in school, the first computer-related lessons I learned were Microsoft Paint, Word, PowerPoint, and Excel. That was when I developed a keen interest in computers.
+<h1 align="center">Hi 👋, I'm Swathi Kummara</h1>
+<h3 align="center">A passionate Full Stack web developer</h3>
 
-After school, a lot of things changed. I was not able to pursue a computer-related degree in college for my bachelor's. However, my desire to pursue a computer-related course had not fizzled out; I had decided that I would pursue web development in the last year of my bachelor's.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swathi191254&label=Profile%20views&color=0e75b6&style=flat" alt="swathi191254" /> </p>
 
-I learned about Masai school through a non-profit organization named Swadha Foundation. Masai school has a very intense training program, however, I knew that my desire to pursue a career in handling computers could be achieved through Masai school.
-Shortly after, I enrolled in Masai school to learn web development. Given my knack to learn things quickly, I was able to grasp the course well, and my "Don't Give Up" attitude led me to learn data structures, coding, and algorithms.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swathi191254" alt="swathi191254" /></a> </p>
 
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-<h2>Tools:-<h2/>
+- 👨‍💻 All of my projects are available at [https://swathi191254.github.io/portfolio2/index.html](https://swathi191254.github.io/portfolio2/index.html)
 
+- 📫 Connect me **swathi709357@gmail.com**
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Express" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing](https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing)
 
-<br />
-<br />
-<h2>Connect Me:-<h2/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/swathitheindian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swathitheindian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swathi-kummara-633142214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi-kummara-633142214/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<a href="https://www.linkedin.com/in/swathi-kummara-633142214/"><img align="left" alt="swathi" width="40px" target="block" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png"></a>
-  <a href="https://swathi191254.github.io/portfolio2/index.html"><img align="left" alt="swathi" width="40px" target="block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQYIofbdqfbxmuSSqNu4qep4IEZ18TmyTduzIajhqX6Mug8ouQxOX-gUXXdjzWx8Ei_Q&usqp=CAU"></a>
-</br>
-</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swathi191254&show_icons=true&locale=en&layout=compact" alt="swathi191254" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swathi191254&show_icons=true&locale=en" alt="swathi191254" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swathi191254&" alt="swathi191254" /></p>
