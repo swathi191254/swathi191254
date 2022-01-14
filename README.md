@@ -3,16 +3,18 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 Portfolio [https://swathi191254.github.io/portfolio2/index.html](https://swathi191254.github.io/portfolio2/index.html)
+
 
 - 📫 Connect me **swathi709357@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing](https://drive.google.com/file/d/1oN07ry16PDFnjtEAtK6aUO4rpunn8MIh/view?usp=sharing)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swathitheindian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swathitheindian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swathi-kummara-633142214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi-kummara-633142214/" height="30" width="40" /></a>
+   <a href="https://swathi191254.github.io/portfolio2/index.html"><img width=30px; height=30px;target="blank" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4dHCDBxkvJDHMT3eRRint1-CbP48-97sFAmpe3oOHwQ2qlUA1lSk1NdYrD6EXyGSBfA&usqp=CAU"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
